@@ -5,7 +5,7 @@ https://creativecommons.org/licenses/by/4.0/
 If you make any use of such datasets, please refer to it as follows:
 
 Rolf Stadler and Rafael Pasquini and Viktoria Fodor. "Learning From Network Device Statistics". 
-Submitted to: Journal of Network and Systems Management (Springer JNSM 2017), July 2017.
+In: Journal of Network and Systems Management - 25th Anniversary Commemorative Special Issue (Springer), pp 1-27, 26 September 2017.
 
 The authors can be contact through:
 rafael.pasquini@ufu.br
